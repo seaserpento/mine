@@ -23,9 +23,12 @@ ul{
   list-style-type: none;}
 
 
-/* li{margin: 0 auto; */
+  /* li{
+    margin: 0 auto;} */
+
 
 a{display: block;
+
 text-decoration: none;
 background-color: gray;
 width: 100px;
@@ -35,7 +38,12 @@ border-radius: 5px;
 }
 
 a.blog {
-  width:200px;
+
+  width:475px;
+  padding: 5px;
+
+  margin: 10px;
+  text-align: center;
 }
 
 img{
